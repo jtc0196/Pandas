@@ -1,0 +1,6 @@
+
+- Interestingly, schools with higher budgets underperformed in comparison to their lower budget counterparts; Prior to the analysis, I assumed the students at lower budget schools would underperform on tests.
+
+-In math performance, the small and medium-sized schools out performed the much larger schools by over 20%
+
+- When comparing public and charter schools, charter schools outperformed in all areas. Because of the above analysis that smaller schools were better performing, the performance might be attributed to the fact that charter schools have less students (schools with less students were shown to be higher-performing)
